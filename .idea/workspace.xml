@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="So the menu bar is empty. Why?" />
+    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="figuring this out next">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "CLOSED"
+    }
+  ],
+  "lastFilter": {
+    "state": "CLOSED"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="19730b60-60a4-430f-a8c8-9f02756621cb" />
+        <option name="url" value="https://github.com/dev-tyta/dev-tyta_portfolio.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2Oc39xNyZGVBJTscWl73ish6xA6" />
   <component name="ProjectViewState">
@@ -35,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681845894653</updated>
-      <workItem from="1681845895652" duration="345000" />
+      <workItem from="1681845895652" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1681845989719</created>
@@ -58,7 +82,56 @@
       <option name="project" value="LOCAL" />
       <updated>1681846145923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update about page">
+      <created>1681846313874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846313874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New blogs page with links to blog">
+      <created>1681846338190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846338190</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Still have to work on the landing page for site though">
+      <created>1681846404227</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846404227</updated>
+    </task>
+    <task id="LOCAL-00007" summary="figuring this out next">
+      <created>1681846448666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846448666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="figuring this out next">
+      <created>1681846453313</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846453313</updated>
+    </task>
+    <task id="LOCAL-00009" summary="figuring this out next">
+      <created>1681846459046</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846459046</updated>
+    </task>
+    <task id="LOCAL-00010" summary="figuring this out next">
+      <created>1681846487398</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846487398</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +140,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="So the menu bar is empty. Why?" />
-    <option name="LAST_COMMIT_MESSAGE" value="So the menu bar is empty. Why?" />
+    <MESSAGE value="Update about page" />
+    <MESSAGE value="New blogs page with links to blog" />
+    <MESSAGE value="Still have to work on the landing page for site though" />
+    <MESSAGE value="figuring this out next" />
+    <option name="LAST_COMMIT_MESSAGE" value="figuring this out next" />
   </component>
 </project>
