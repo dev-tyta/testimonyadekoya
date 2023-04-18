@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="changed name">
+    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="inserting image">
       <change beforePath="$PROJECT_DIR$/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681845894653</updated>
-      <workItem from="1681845895652" duration="1653000" />
+      <workItem from="1681845895652" duration="1991000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1681845989719</created>
@@ -151,7 +151,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681847499818</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="adding image for latest blog">
+      <created>1681847606716</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681847606716</updated>
+    </task>
+    <task id="LOCAL-00015" summary="adding image for deployment blogpost">
+      <created>1681847774104</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681847774104</updated>
+    </task>
+    <task id="LOCAL-00016" summary="inserting image">
+      <created>1681847788333</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681847788333</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +187,9 @@
     <MESSAGE value="figuring this out next" />
     <MESSAGE value="figuring this out" />
     <MESSAGE value="changed name" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed name" />
+    <MESSAGE value="adding image for latest blog" />
+    <MESSAGE value="adding image for deployment blogpost" />
+    <MESSAGE value="inserting image" />
+    <option name="LAST_COMMIT_MESSAGE" value="inserting image" />
   </component>
 </project>
