@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="inserting image">
-      <change beforePath="$PROJECT_DIR$/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.html" afterDir="false" />
-    </list>
+    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="images added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681845894653</updated>
-      <workItem from="1681845895652" duration="1991000" />
+      <workItem from="1681845895652" duration="2341000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1681845989719</created>
@@ -172,7 +170,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681847788333</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="working on blog posts">
+      <created>1681848016638</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681848016638</updated>
+    </task>
+    <task id="LOCAL-00018" summary="working on blog posts">
+      <created>1681848060663</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681848060663</updated>
+    </task>
+    <task id="LOCAL-00019" summary="links inserted">
+      <created>1681848150794</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681848150794</updated>
+    </task>
+    <task id="LOCAL-00020" summary="images added">
+      <created>1681848247782</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681848247782</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +216,9 @@
     <MESSAGE value="adding image for latest blog" />
     <MESSAGE value="adding image for deployment blogpost" />
     <MESSAGE value="inserting image" />
-    <option name="LAST_COMMIT_MESSAGE" value="inserting image" />
+    <MESSAGE value="working on blog posts" />
+    <MESSAGE value="links inserted" />
+    <MESSAGE value="images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="images added" />
   </component>
 </project>
