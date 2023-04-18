@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="366390d4-b2b1-4a03-bbad-479f15290b06" name="Changes" comment="So the menu bar is empty. Why?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/meme/PycharmProjects/dev-tyta_portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -33,11 +35,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681845894653</updated>
-      <workItem from="1681845895652" duration="43000" />
+      <workItem from="1681845895652" duration="345000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1681845989719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681845989719</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1681846003053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846003053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="So the menu bar is empty. Why?">
+      <created>1681846145923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681846145923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="So the menu bar is empty. Why?" />
+    <option name="LAST_COMMIT_MESSAGE" value="So the menu bar is empty. Why?" />
   </component>
 </project>
